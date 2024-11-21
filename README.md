@@ -9,7 +9,7 @@ Reinserción Social: Permitir una reintegración rápida y efectiva de los crimi
 Innovación en Justicia Penal: Proporcionar una alternativa ética y tecnológica al castigo convencional, centrada en el aprendizaje y la rehabilitación.
 
 ## Codigo
-
+```
 using System;
 using System.Collections.Generic;
 
